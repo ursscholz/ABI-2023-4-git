@@ -11,3 +11,6 @@ Command to commit files from the staging area to the repository and add a commen
 
 ## git push
 git push
+
+## git mv
+Command to rename a file in the repository
